@@ -1,0 +1,24 @@
+# Stopwatch Project
+
+## Overview
+
+This project is a simple Stopwatch implemented using HTML, CSS, and JavaScript. It provides users with features to measure elapsed time in hours, minutes, seconds, and milliseconds.
+
+## Features
+
+- Start, stop, and reset functionality
+- Accurate measurement including milliseconds
+- Responsive design
+- Implemented with HTML, CSS, and JavaScript
+- Easy to integrate and customize
+
+## Preview
+
+![Stopwatch Preview](./preview.png)
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/WaqasArshad97/stopwatch.git

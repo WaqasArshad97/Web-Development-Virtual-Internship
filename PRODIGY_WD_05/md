@@ -1,0 +1,45 @@
+# Weather App
+
+## Overview
+
+This project is a simple weather application that allows users to check the current temperature and weather description for a given city. The app fetches data from the WeatherAPI.com service.
+
+## Features
+
+- Real-time weather data
+- Responsive design
+- Search by city name
+- Implemented with HTML, CSS, and JavaScript
+- Easy to integrate and customize
+
+## Preview
+
+![Weather App Preview](./preview.png)
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/WaqasArshad97/weather-app.git
+
+
+Open the index.html file in a web browser.
+
+Enter a city name in the input field and click the "Search" button.
+
+View the real-time temperature and weather description for the specified city.
+
+## API Key
+To use the WeatherAPI.com service, you need to obtain an API key. Replace 'YOUR_API_KEY' in script.js with your actual API key. Get your API key from `WeatherAPI.com`.
+
+## Customization
+You can customize the Weather App's appearance or behavior by modifying the HTML, CSS, and JavaScript files. Feel free to experiment with different styles, add additional features, or integrate it into your existing projects.
+
+## Contributors
+Your Name (@your-username)
+License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+Special thanks to `WeatherAPI.com` for providing the weather data.

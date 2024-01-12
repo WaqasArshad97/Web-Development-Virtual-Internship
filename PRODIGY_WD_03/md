@@ -1,0 +1,25 @@
+# Tic Tac Toe Game
+
+## Overview
+
+This project is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It provides a responsive design and allows two players to take turns making moves.
+
+## Features
+
+- Two-player game
+- Responsive design
+- Win and draw detection
+- Reset game functionality
+- Implemented with HTML, CSS, and JavaScript
+- Easy to integrate and customize
+
+## Preview
+
+![Tic Tac Toe Preview](./preview.png)
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/WaqasArshad97/tic-tac-toe.git
